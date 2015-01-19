@@ -11,7 +11,7 @@ namespace gitproject
         static void Main(string[] args)
         {
             Console.WriteLine("alles kits met de gits");
-
+            Console.WriteLine("Hallo");
 
         }
     }
